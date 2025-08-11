@@ -10,6 +10,7 @@ fastapi==0.100.1
 uvicorn==0.23.2
 streamlit==1.25.0
 pydantic<2.0.0
+pyarrow==21.0.0
 
 # Data Streaming
 kafka-python==2.0.2
